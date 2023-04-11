@@ -1,0 +1,78 @@
+DAVID ZAMBRANO
+
+(424) 431-6875 ¢ david_zambrano@mba.berkeley.edu e linkedin.com/in/david-zambrano-ramos
+EDUCATION
+
+University of California, Berkeley, Haas School of Business, Berkeley, CA May 2022
+Master of Business Administration
+
+e = Affiliations: Technology Club, Fintech Club, Data Science Club
+
+e Pursuing Certificate in Business Analytics
+
+University of Lima, Lima, Peru December 2015
+Bachelor of Engineering, Industrial Engineering
+
+e Graduated first in class (Valedictorian)
+
+EXPERIENCE
+Ernst & Young (EY), Latin America
+Financial Services Office - Advisory
+Senior Consultant 2018 - 2019
+In-Charge Consultant 2017 - 2018
+Assistant Consultant 2016 - 2017
+
+e Received two fast-track promotions as top performer.
+
+e Led projects for banks in Peru, Mexico, Ecuador, Panama, Costa Rica, and the Dominican Republic.
+
+Product strategy and development
+
+e Led the design of a tool to assist in credit card pricing decisions for a bank in Mexico with the potential to increase
+profit by $5 million, maintaining satisfaction levels, by combining business requirements and customer surveys.
+
+e Defined the functional requirement for a credit card system modification with the potential to generate $3M for a
+bank operating in Panama and Costa Rica.
+
+e Designed roadmaps for the implementation of solutions valued at $50+ million in six countries and prioritized
+solutions based on expected profit, complexity and impact on customer satisfaction.
+
+Cross-functional leadership and collaboration
+
+e Led cross-functional teams with stakeholders from Business Development, Finance, Legal, Operations and IT to
+determine the best way to deploy initiatives for a value of $10+ million for a bank in Panama.
+
+e Gained buy-in from senior executives and secured the resources to implement a solution 3 months ahead of
+schedule by building a strong business case for a bank in the Dominican Republic.
+
+e Collaborated with a team of software engineers and solutions architects to ideate and prioritize changes in the
+credit card system for a bank in Mexico.
+
+e Worked with the marketing team to design the communications strategy for several product modifications in credit
+card products for a bank in Mexico.
+
+Data analysis and visualization
+
+e Defined required changes in product features to obtain $10+ million in additional profit for a bank in Panama by
+analyzing retail lending data (SQL).
+
+e Identified opportunities for a 5% revenue increase for a bank in the Dominican Republic by analyzing credit card
+transactional data (SQL) and understanding consumer behavior.
+
+e Designed and developed a dashboard according to requirements from the Finance, Product and Business
+Intelligence teams to monitor the performance of implemented solutions (SQL, Excel and VBA) for a bank operating
+in Panama and Costa Rica.
+
+ADDITIONAL
+
+e = Technical skills: Microsoft Office, SQL, Python, R, VBA, Power BI, Django.
+
+e Languages: Spanish (native), English (fluent).
+
+e Green card holder.
+
+GMAT Score: 740 (97th percentile).
+
+Certificate: Advanced Finance Program, Central Bank of Peru (2016).
+
+Personal interests: In my free time, | work on a fintech startup to help Peruvians manage their personal finances.

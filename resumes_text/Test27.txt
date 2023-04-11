@@ -1,0 +1,77 @@
+JONATHAN WAN
+
+408.680.1615 e jonathan.wan@mba.berkeley.edu e linkedin.com/in/jonathanckwan/
+
+EDUCATION
+University of California, Berkeley, Haas School of Business May 2022
+Master of Business Administration
+e = Technology Club, Transportation & Mobility Club, Data Science Club and Berkeley Innovative Solutions Consultant.
+e Mentor for 9°" grade students in the BOOST @BerkeleyHaas program.
+
+University of California, Berkeley May 2016
+B.A. Economics: Distinction in General Scholarship
+
+SCET Certificate in Technology Entrepreneurship
+
+e VP Operations, UC Berkeley Asian Business Association.
+
+EXPERIENCE
+
+Deloitte Consulting LLP — Deloitte Digital, San Francisco 2016 - 2020
+
+Senior Consultant (2020), Consultant (2018-2020), Business Technology Analyst (2016-2018)
+
+Cross-Functional Team Leadership
+
+e Led team of 5 developers to deliver functionality in 2 weeks that mitigated impact of 20x call volume increase across 22
+scenarios; features lowered average case processing time by 3-5 minutes and allowed customers to request COVID-19
+Payment Relief through consumer lending website.
+
+e Managed testing strategy, scope, and timeline as Testing Lead for 3 cross-functional workstreams on Cloud ERP
+optimization project to support Client IPO readiness assessment.
+
+e = Collaborated with legal and compliance partners to align technology and business process design to compliance
+requirements across Collections, Contract Modifications and Regulatory initiatives at financial services clients.
+
+e Led defect resolution process for Sales Relationship Management product by analyzing root causes in system and
+collaborating with 4 developers to deliver code fixes to lower defect injection rate by 40% over 3 months.
+
+Strategy & Process Improvement
+
+e Reimagined end-of-lease vehicle “buy, return, replace” customer journey for client and developed a corresponding
+series of 3 wireframes; subsequently introduced concepts to larger team and built consensus across 10+ cross-
+functional stakeholders in digital marketing, service operations and IT.
+
+e Defined new processes, user stories and UI/UX for digital customer self-service project which led to a reduction in
+operational costs at client. New process and features deflected 5.7K calls in first week of release and decreased Vehicle
+Title related calls by 20%.
+
+e Analyzed 9 months of call data and conducted stakeholder interviews to evaluate, score and prioritize technology
+capabilities; leveraged prioritization to create IT Roadmap for Contact Center Transformation project, reducing
+discovery phase timeline for upcoming CRM implementation.
+
+Project Management & Training
+
+e Led team of 14 to plan and execute Impact Day, Deloitte’s annual day of volunteering in SF Bay Area, overseeing 33
+projects with 1000+ Deloitte volunteers; managed $60K budget efficiently to sponsor 30% more projects and increase
+participation by 250+ volunteers compared to previous year.
+
+e Developed training documentation for user acceptance testing on 2 projects. Spearheaded walkthroughs and
+conducted training sessions with client teams to review system functionality, testing tools, and methodology.
+
+Marketing
+
+e Planned gallery to showcase Deloitte products at Salesforce Global Practice Meeting and promoted Deloitte’s IP to
+400+ practitioners, Salesforce.com employees and ecosystem partners; visualized gallery design in SketchUp and
+pitched to 6 Product Teams based in the U.S, Canada, and the U.K. to get buy-in on event.
+
+e Coordinated marketing for 3 UC Berkeley on-campus recruiting events each year, designed candidate communications
+for events and applications, planned Coffee House Chats for 40+ students to meet Deloitte professionals informally and
+learn about the life and role of an analyst.
+
+ADDITIONAL
+
+e Tech skills: Certified Salesforce Sales Cloud & Service Cloud Consultant, Apex & SOQL, Java, JS, Adobe Design Suite.
+e Alumni Mentor for undergraduates in UC Berkeley Asian Business Association.
+Passionate about automotive and mobility — looking for ways to develop equitable access to new mobility solutions;
+portrait photography — enjoy capturing happiness; and building things — love understanding how things work.

@@ -1,0 +1,85 @@
+Joseph Wayne Scammerhorn
+913-704-9151 « scammerhorn@mba.berkeley.edu « linkedin.com/in/josephscammerhorn/
+EDUCATION
+
+University of California, Berkeley, Haas School of Business May 2022
+Candidate for Master in Business Administration
+Organizations: Haas Veterans Club, Technology Club, Venture Capital Club, Social Impact Club, InSITE Fellows
+
+University of Texas, Austin, McCombs School of Business May 2015
+Bachelor of Business Administration, Management Information Systems
+Organizations: President, Delta Sigma Pi; McCombs Leadership Program; Texas Army ROTC; Texas Blazers
+
+EXPERIENCE
+Illuminate Ventures Nov 2020 - Current
+
+MBA Intern (Oct. 2020 — Present)
+© Working directly with Illuminate Partners on projects ranging from conducting competitive analyses, market assessments, and other
+due diligence activities to inform potential investments, to researching and creating points-of-view on investment trends
+
+Deloitte Consulting LLP Sep 2015 — Jul 2020
+
+Consultant / Senior Consultant - Cloud Engineering (Aug. 2018 — Jul. 2020)
+
+¢ Guided a global eCommerce company through a Board-mandated effort to improve resilience, collaborating with experts across
+domains (engineering, platform architecture, Reliability Engineering) to develop a current state and align on a remediation roadmap
+to meet program requirements and implement enhancements expected to save $10M+/year
+
+¢ Leda team responsible for refreshing Deloitte Cloud’s growth strategy, performing a full market scan and working with the Corporate
+Development team to create tailored buy / partner recommendations and present to Cloud leadership
+
+¢ Co-led a research effort for Deloitte’s esports Community of Practice kickoff, leading a small team of technologists to identify trends
+shaping the esports industry; research themes used as input for Deloitte’s go-to-market strategy and external research publications
+
+© Operationalized a Transformation Management Office (TMO) for a Fortune 50 company’s enterprise-wide migration to public cloud
+and agile / DevOps ways of working, from identifying key program stakeholders and establishing working cadences, to co-developing
+program roadmaps with prioritized features and trade-offs, and driving progress and alignment across programs — requested by name
+for follow-on engagements by the IT COO
+
+¢ Conducted a portfolio modernization analysis, evaluating 600+ applications and recommending candidates to be modernized to
+realize cost savings and improve performance; analysis based on 20+ criteria sourced from business leaders, customers, and
+development teams — recommendations used to help inform strategic IT investment priorities
+
+¢ Supported a Complaints and Allegations Management (CAM) architecture modernization for a top-four U.S. bank to enable cost
+savings and enhance customer experience through a unified, end-to-end CAM process — involved conducting 40+ interviews to
+identify pain points, gathering requirements for the target state solution, and developing a 12-month implementation roadmap
+
+<spent a year on leave from Deloitte while deployed overseas — see ‘U.S. Army Reserves’ section for details>
+
+Business Technology Analyst - IT M&A, Systems Integration (Sept. 2015 — Aug. 2017)
+
+¢ Created a point-of-view on best practices for data center resiliency in the Financial Services industry, used as the baseline for a
+technical assessment and five-year roadmap for a super-regional bank
+
+¢ Designed and oversaw development of a healthcare eligibility platform with estimated SOk+ users, coordinating with frontline clerks,
+policy development specialists, and systems engineers to translate business / product requirements into a working technical solution
+
+U.S. Army Reserves (Texas Army National Guard) Jul 2015 — Aug 2019
+
+Network Communications Officer / Foreign Military Liaison (Full-Time) (Aug. 2017 — Jul. 2018)
+
+¢ Deployed to the Horn of Africa in a unit of 800+ Soldiers to conduct security and emergency response missions across the continent
+
+¢ Rated top-10% of peer group as second-in-command of a section of 12 network experts, responsible for deployment and
+management of all technology, data, and infrastructure systems for an 800-person unit; coordinated joint missions across Africa
+
+¢ Successfully negotiated the procurement of $1M+ in equipment to enhance communication capabilities in remote countries
+
+¢ Awarded a Letter of Commendation by a French Commander for coordinating cross-military training activities and building /
+maintaining strong working relationships throughout the deployment; facilitated English Discussion Groups and cultural exchanges
+with liaisons from the Republic of Korea
+
+Various Reservist Duty Positions (Sept. 2015 — Sept. 2019)
+
+* Served in a variety of leadership roles for network communications units, ranging from direct leadership over and evaluation of a
+platoon of 30 Soldiers to planning and executing operations for a unit of 130+ Soldiers
+
+* Completed the Army Signal Corps Captain’s Career Course (graduated top 20%) and Army Space Cadre Basic Course in 2019
+
+* Graduated as Distinguished Honor Graduate (ranked 1/47) of the Army Signal Corps Basic Officer Leadership Course in 2016
+
+ADDITIONAL
+
+¢ Languages: Basic understanding of Korean and Spanish
+© Certifications: Amazon Web Services (AWS) Solution Architect - Associate; CompTIA Project+; CompTIA Security+
+¢ Relevant courses: Kauffman Fellows — Venture Deals Summer 2020; MIT OCW 6.0001 - Intro to CS and Programming in Python

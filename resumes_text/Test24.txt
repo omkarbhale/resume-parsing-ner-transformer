@@ -1,0 +1,91 @@
+AN TRAN
+(510)-345-7002 e an_tran@berkeley.edu ¢ linkedin.com/in/antran92 e Berkeley, CA 94704
+EDUCATION
+
+University of California, Berkeley, Haas School of Business May 2022
+Master of Business Administration (eligible for 24 months STEM OPT extension)
+e = Co-chair - Haas Tech Summit, Tech Club; VP Asia Club, Data Science Club. Merit-based Scholarship, Forte Fellowship.
+
+Foreign Trade University, Vietnam Jul 2014
+Bachelor of Arts, International Business Economics
+e Rank 1“ in class. Co-founder of FTU Alumni Network and a Facebook confession page (160K followers).
+
+EXPERIENCE
+
+TAPTAP by VUI Vietnam, Vietnam Jun 2019 - Aug 2020
+
+#1 coalition loyalty program in Vietnam, reaching 30% of Vietnamese consumers in 1000+ stores, 8 e-commerce platforms
+
+Product Manager
+
+e Enabled the consolidation of 4 large consumer brands’ loyalty programs into TAPTAP data warehouse by negotiating with
+brands, designing point conversion model, and managing engineers to build system integration end-to-end with 120+ APIs.
+
+e Led integration between TapTap CRM system, 9 retail brands’ POS systems and 2 e-commerce websites by analyzing user
+journey, mapping data with APIs to enable real-time earn and burn loyalty points on $200M loyalty transactions.
+
+e Led the development of app acquisition features by conducting interviews, creating MVP, and coordinating cross-functional
+teams; added 75,000 new users, 100% increase in 6 months without marketing during COVID.
+
+e = Built Internal Content Management Tool by prioritizing marketing events, designing mock-ups, running product sprints;
+enabled the marketing team to automate 50+ acquisitions and engagement campaigns.
+
+e Pioneered anti-fraud metrics, launched Weekly Alert tool to reduce 2,800 fraud transactions in 8 brands within 6 months.
+
+VIETNAM INVESTMENTS GROUP, LLC, Southeast Asia Private Equity Apr 2016 - May 2019
+
+Post - Investment Manager (2019), Senior Investment Analyst (2018), Investment Analyst (2016-2017)
+
+Product Management & Roadmap
+
+e Launched e-commerce website for in #1 Vietnamese tea chain by developing MVP, leading engineers, running A/B tests;
+resulted in a 10% increase in product sales and added 100+ new franchises within a year.
+
+e Devised 1-year product roadmap for an online job portal by interviewing 50+ corporates, conducting competitive analysis,
+introducing prioritization of candidate search features; generated 5% gain to 62% market share of Vietnamese job search.
+
+e Initiated services diversification and revamped customer experience at 12 in-store touchpoints by studying customers’
+behaviors, reorganizing operational processes; increased annual sales by 50% for the largest auto services in Vietnam
+
+Strategy & Cross-functional teamwork
+
+e Coordinated LS Retail implementation by leading engineers and 6 functional teams to define requirements and migrate 300+
+databases to one; digitized 120+ business processes for #1 Food & Beverage (F&B) Holdings Company.
+
+e Developed and implemented product diversification, customer services strategy, and expansion roadmaps with cross-
+functional teams, leading to 1.8x sales increase and 20% same-store growth in #1 F&B Holdings within a year.
+
+Data Analysis & Informed Decisions
+
+e Surveyed 3000+ customers and carried out 50+ experiments on services and ambiance to establish a new user-centered
+experience across 520 restaurants; achieved 10% same-store sales growth for the #1 F&B Holdings.
+
+e Led analysts, legal team, and operation team to perform company commercial, operational, legal, and financial due diligence
+and create 150+ business models; resulted in investment decisions of $120M in total
+
+TELEPORT, Vietnam Mar 2015 — Mar 2016
+
+Last-mile C2C delivery services for 200+ online merchant, Facebook fashion and cosmetics shops, topped at 1,000 daily orders
+
+Co-founder, Product Owner
+
+e Set up same day last-mile delivery services by utilizing motorbikes and creating a differentiated experience toward recipients
+after conducting 30+ merchant interviews and 50+ experiments, established processes and trained 35 shippers.
+
+PRICEWATERHOUSECOOPERS, Vietnam Dec 2014 - Mar 2016
+Associate, Assurance & Advisory
+e Formulated 1* unit cost model for the pricing of new hardware by analyzing 200+ data points in a top 30 Global company.
+
+ADDITIONAL
+
+e = Project: Product Manager — Momby, Al app for pregnant women; designed Al chatbot from end-to-end by conducting research
+with 162 pregnant women and working with three engineers, doctors to build Al models using Natural Language Processing.
+
+e Hobbies: Vietnamese food chef (3 regional cuisines), Gardener, Marathon Runner (6 marathons in 2019)
+
+e Volunteer: Entrepreneur coach - Global Shapers (World Economic Forum); External Relations - SEO-Vietnam Network.
+
+e — Skills: Python, JavaScript, Postman, Git, Jira, MySQL, Balsamigq, Figma, Spark AR | Language: English, Vietnamese
+
+e Other courses: Machine Learning (Stanford), Applied Al, Natural Language Processing, System Design and Data Structure.
+

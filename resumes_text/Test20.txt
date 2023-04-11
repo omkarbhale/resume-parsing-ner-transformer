@@ -1,0 +1,73 @@
+Charles Tang
++1 650-861-8028 Charles. Tang@Berkeley.edu
+
+EDUCATION
+
+University of California, Berkeley, Haas School of Business, Berkeley CA May 2022
+Master of Business Administration; GMAT: 750 (98th percentile)
+
+e Member of Tech Club, Berkeley StEP (Student Entrepreneurship Program)
+
+e = Certificate: Introduction to Product Management by Cognitir
+
+University of Michigan- Ann Arbor Dec 2012
+Bachelor of Science, Electrical Engineering; Graduated Cum Laude
+
+EXPERIENCE
+
+CISCO SYSTEMS, San Jose, CA. 2013-Present
+
+Number | networking company.
+
+Senior Hardware Engineer
+
+Product Management
+
+e Lead a team of 8 engineers in developing internal tools used by cross-functional teams to ensure
+successful execution of multiple $100M+ dollars silicon projects.
+
+e Conducted internal user interviews to identify new tool opportunities in improving efficiency and design
+experience. Launched 4 new tools (data analytics, dashboard, reporting and custom design tools); Saved company
+~$2M in software license and reduced design cycle time by 20%,
+
+e Manage release process of internal tools, documentation of tool manuals. Reduced hotfixes by 50% by
+implementing an issue and project tracking software and automating testcases.
+
+Engineering Leadership
+
+e Leda team of 40 cross-functional engineers and vendors in executing a silicon project. Identified blockages and
+communicate issues between cross functional teams.
+
+e Spearheaded the centralization of engineering methodology between US Team and the acquired Israel Team to
+mobilize resources. Completed goal 2 weeks ahead of a tight 3-month schedule.
+
+e Pre-screened and interviewed 100+ students/engineers, hired and mentored 3 young engineers and 4 interns.
+
+e Top performer with 3 industry publications. Selected to participate in leadership program with direct mentorship
+with SVP of Engineering.
+
+Vendor/Client Interaction
+
+e Built business case and negotiated chip pricing with silicon vendor. Saved a total of $2M.
+
+e Enhanced relationships with 2 electronic design automation companies (EDA). Gathered internal requirements,
+understood user pain points and worked closely with product R&D engineers to define features for next
+generation EDA software over 5 months of engagement period.
+
+LAUNCH PARTY, Berkeley, CA August 2020-Present
+Early stage Equitv Crowdfunding Startup.
+Product Manager (Part time)
+e Developed strategic value proposition, organization growth plan and conducted competitive landscape
+research. Designed and refined surveys, interviewed 30+ startups, venture capitalists and investors.
+e Lead two engineers on the website design; Planned roadmap, designed wireframe, launched landing page website
+MVP and performed A/B testing to validate value hypothesis.
+
+ADDITIONAL
+
+e Languages: Native in Cantonese/Mandarin, Fluent in English
+
+e Selected Technical Skills: Hardware Design, Automation, Full Stack Web development (Udacity nano degree),
+IOS development (UCSC-Extension), Python SQL, R
+
+e Interests: Enjoy music, craft beer and running (Ran 8 Half Marathons in 18 months.)
+

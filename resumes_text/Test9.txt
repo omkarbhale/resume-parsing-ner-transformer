@@ -1,0 +1,76 @@
+David Siap
+
+847-668-5463 | siap@mba.berkeley.edu | linkedin.com/dsiap
+
+EDUCATION
+
+University of California, Berkeley, Haas School of Business August 2021
+Master of Business Administration, Product, Energy, and Entrepreneurship Focus, GMAT: 740
+
+e Skydeck GeopogoAR- Product features, voice of customer, strategy, SEO, roadmap, user interviews.
+
+e StEP Startup Team Lead — Developed energy efficiency browser extension and pitched to VC.
+
+e BIS Consultant - Recommendations and competitive analysis for clean energy startup pivoting to software.
+
+University of California, Davis 2013
+Master of Science, Aeronautical and Mechanical Engineering
+
+University of Illinois at Urbana Champaign/Loyola University Chicago 2008
+Bachelor of Science, Mechanical Engineering, Mathematics, Physics
+
+EXPERIENCE
+Olivine Inc — Cleantech Software Startup 2019 - 2020
+
+Product (2020 - Present)
+
+e Launched new features, explored new market opportunities, translated business goals to product requirements,
+built roadmaps, defined OKRs, user research, driving increased platform KPls including user satisfaction.
+
+e Represented product with development team using agile methodology to build new mobile app, supporting user
+growth from 0 to 1000s as part of a new product offering and successful program launch.
+
+Technical Lead (2019-2020)
+e Led across-functional team of 5 to produce research and optimization software on EV charging strategy.
+e Engaged with C-level internal and customer stakeholders on a daily/weekly cadence improving cohesion.
+
+Lawrence Berkeley National Laboratory (LBNL) 2014 - 2019
+
+Scientific Engineering Associate/Program Manager (2016-2019)
+
+e Used machine learning to evaluate sources of energy savings from large dataset, resulted in 100s of millions of
+dollars in savings due to LEDs being added to outdoor FEMP federal procurement guidance.
+
+e Led cross-functional team, developing identical deliverables at 1/3rd of previous cost.
+
+Senior Research Associate (2014-2016)
+
+e Led technical team, resulted in 1 quad of savings and $4 billion NPV. Worked with Nobel Prize winner.
+
+e Presented and successfully defended techno-economic analysis, recommendations to hostile C-level
+stakeholders. This resulted in the ban of standing pilots from fireplaces in the US after 2019.
+
+California Lighting Technology Center 2012 - 2013
+
+Hardware Development Engineer (2012 - 2013)
+
+e Built Python to LabVIEW driver supporting loT dataflows for lighting efficiency, resulted in CITRIS paper.
+
+e Hired and directly managed team of mechanical and software engineers designing and building novel laboratory,
+expanding lab capabilities into advanced daylighting controls.
+
+FIAT/Caterpillar 2008 - 2011
+
+Integration Manager (2011 — Graduate School), Design/Integration Engineer (2008 - 2011)
+
+e¢ Managed cross-functional automotive new product development team to support timely product launch of $100
+million tractor line. Represented engine manufacturer on-site and provided voice of customer to engine supplier.
+
+ADDITIONAL
+
+e Software/Languages: Excel, Python (Pandas/SKLearn/Matplotlib), Matlab, HTML/Javascript, SQL, GitHub
+e Research: Project Drawdown Fellow, Several journal publications, Federal rulemaking publications
+
+¢ Certification: Udacity Product Manager (‘20), Certified Energy Manager (‘18), Six Sigma Green Belt (‘09)
+e Hackathons: Stanford Cleantech Hackathon 1“ place for 2L battery startup, Suncode Hackathon 1* place
+e Hobbies: Over 20 years in Urban Dance - Won several first place team and individual awards in 2014

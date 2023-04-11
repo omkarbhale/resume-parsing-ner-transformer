@@ -1,0 +1,74 @@
+Cora (Fan) Yuan
+310-819-2773 e corayuan@mba.berkeley.edu ¢ linkedin.com/in/cora-fan-yuan
+
+EDUCATION
+
+University of California, Berkeley, Haas School of Business — Berkeley, CA May 2022
+Master of Business Administration
+
+e 1" place, Haas Small Business School Challenge — Business and Strategy planning for small business owner
+
+e Project Manager for Haas student-led course — Technology Speaker Series
+
+e Haas Technology Club, Haas Data Science Club, Women in Leadership
+
+Carnegie Mellon University — Pittsburgh, PA May 2017
+Master of Science, Statistical Practice
+
+University of California, Los Angeles — Los Angeles, CA June 2016
+Bachelor of Arts, Economics, Statistics (Minor)
+e Recipient of Robert D. & Margaret A. Wark Memorial Scholarship
+
+EXPERIENCE
+
+Uber Advanced Technologies Group, San Francisco, CA 2019 - 2020
+
+Data Analyst Il, Product (2019 - 2020)
+
+e Informed management decisions and supported technical researches for self-driving development through
+analyzing vehicle-derived with human-derived data
+
+e Initiated and built the ATG Scoreboard — a web tool that houses metrics from all functions to bring more exposure
+to organization-wide insights and executive decision makings
+
+e  Collaborated with Product, Engineering, Data Science, UX Research, Design utilizing data-driven approaches for
+self-driving research, ex. Non-vehicle Operator Pilot, Operational Transitions, Expansion Method Proof of Concept
+
+Deloitte & Touche LLP, San Francisco, CA 2017 - 2019
+
+Lead Senior Data Analytics Specialist (2018 - 2019)
+
+e Leda team of 6 in assisting clients with data analysis regarding industry-specific data problems, ex. Zero Balance
+Accounts analysis, Charge Description Master analysis
+
+e Collaborated with clients and industry leaders in identifying opportunities for analytics tools and technical
+implementations to create instant, automated solutions
+
+e Participated in the global initiative DWW (Deloitte Way Workflow) working with industry senior managements
+across multiple countries to reduce audit hours by implementing Big Data approaches
+
+Data Analytics Specialist (2017 - 2018)
+
+e Developed dashboards and modeling scripts to analyze large and complex data to reveal trends and monitor key
+business metrics
+
+e Performed detailed statistical analysis and generated applications/pipelines using R/Python to streamline
+business and financial reporting processes
+
+Pittsburgh Civic Light Opera, Pittsburgh, PA 2016
+
+Statistical Consultant (2016)
+
+e Delivered analysis on factors influencing musical ticket sales for two product lines, led to adjustments on future
+advertisement plans
+
+e Generated a sample mixed effects model to predict ticket sales for future individual shows
+
+e Created an interactive visualization application to display results and allow analysis and prediction on future sales
+data
+
+ADDITIONAL
+
+e Software: R, R Shiny, Python, Python Dash, SQL, Hadoop/Pig/Hive/Spark, Shell Script, Tableau, PowerBl
+e Statistical: Data Mining, Analytics Solutions, Data/Business Visualization, Machine Learning, Forecasting
+e Language: Mandarin (Fluent)

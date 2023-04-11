@@ -1,0 +1,28 @@
+[
+	{
+		"name": "50",
+		"text": "Om Kolte\nComputer Engineering Student\nomkolte17@gmail.com 7972695834\nomkolte.com linkedin.com/in/omkolte\ntwitter.com/kolteom github.com/omkolte17\nEDUCATION\nB. Tech in Computer Engineering\nPimpri Chinchwad College of Engineering, Pune\n2021 - 2024 (expected), 8.33 CGPA\nDiploma in Computer Engineering\nPimpri Chinchwad Polytechnic, Pune\n2018 - 2021, 97.20%\nEXPERIENCE\nSoftware Developer Intern\nKPIT Technologies Ltd. 08/2022, Pune, MH\nData Science Intern\nLetsGrowMore\n10/2021 - 11/2021, Remote\nLetsGrowMore is a ground based organization which aims at building the\nfuture by nourishing the present and is a official MSME registered start up.\nCreated data visualization graphics, translating complex data\nsets into comprehensive visual representations. Developed polished visualizations to share results of data\nanalyses. Used Stacked LSTM for Stock Market Prediction. Guide: Mr. Aman Kesarwani - Linkedin\nWeb Development Intern\nSoftAim Solutions\n06/2020 - 07/2020, Pune, MH\nDeveloped user interfaces with HTML5, CSS3 and other\nmodern frameworks. Utilized scripting languages, content creation tools,\nSKILLS\nPython C C++ HTML CSS PHP\nSQL PL/SQL Django JavaScript\nFamiliar With: Core Java, R Programming, Android\nDevelopment using Java\n\nPROJECTS\nCandlestick Pattern Analyzer (Published Research Paper)\nDeveloped a web application using Python and Flask for analyzing\nstocks and its candlestick charts. Created a custom dataset consisting of daily stock price by using the Yahoo Finance API. Visualized the data into a candlestick chart indicating various patterns at various dates on a daily timeframe. Published a research paper in the International Journal of Innovative Research in Computer and Communication Engineering ( IJIRCCE ) which has an impact factor of 7.488, and registered a copyright. GitHub Repository | Research Paper | Diary No. 18863/2021-CO/SW\nAdvanced Library Automation System Control\nAndroid application to control the movements of a robot associated with the advanced library automation system (ALAS). Digital Library System\nBuilt a website demonstrating a small-scale digital library system. The focus was mostly on developing the front-end rather than backend so only the login system was implemented with database\nconnectivity (MySQL) without any dashboard. GitHub Repository\nCOMPETITIONS\nData Visualization and Analysis of Stock Market - Paper\nPresentation (2021)\nSecured 3rd rank in Paper Presentation organized by Pimpri Chinchwad\nPolytechnic, Pune. Media and Entertainment Web Application - Project\nExhibition (2019)\nSecured 2nd rank in project exhibition organized by Symbiosis Institute of\nTechnology, Pune in 2019. DataBase Mania (2019)\nSecured 2nd rank. It was organized by Pimpri Chinchwad Polytechnic, Pune. The contestants had to write and execute SQL queries for performing specified operations on a table in a database. Rapid Website Development (2019)\nSecured 2nd rank. It was organized by Pimpri Chinchwad Polytechnic, Pune, where the contestants had to develop a usable website on a topic under 30 minutes.\n\n",
+		"entities": [
+			[0, 8, "NAME"],
+			[9, 29, "DEGREE"],
+			[38, 57, "MAIL"],
+			[58, 68, "PHONE"],
+			[69, 80, "LINK"],
+			[81, 104, "LINK"],
+			[105, 124, "LINK"],
+			[125, 145, "LINK"],
+			[1105, 1111, "SKILL"],
+			[1112, 1113, "SKILL"],
+			[1114, 1117, "SKILL"],
+			[1118, 1122, "SKILL"],
+			[1123, 1126, "SKILL"],
+			[1127, 1130, "SKILL"],
+			[1149, 1159, "SKILL"],
+			[1142, 1148, "SKILL"],
+			[1135, 1141, "SKILL"],
+			[1131, 1134, "SKILL"],
+			[1180, 1184, "SKILL"],
+			[1201, 1208, "SKILL"]
+		]
+	}
+]

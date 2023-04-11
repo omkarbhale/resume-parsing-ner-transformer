@@ -1,0 +1,71 @@
+ALEXANDER SERGIAN
+
+925-529-2172 e alexander.sergian@berkeley.edue linkedin.com/in/alexsergian
+
+EDUCATION
+University of California, Berkeley, Haas School of Business May 2022
+Master of Business Administration (MBA)
+Master of Engineering (MEng), Industrial Engineering & Operations Research
+e Galloway Fellow, Haas Tech Club, Redwoods@Haas
+
+University of California, Davis, College of Engineering Sept 2016
+
+Bachelor of Science, Computer Science & Engineering
+
+e High Honors, Dean’s List, Tau Beta Pi, Regents Scholar
+
+e Drone Parking Enforcement: collaborated with a team of 4 to design a parking enforcement system using a DJI
+Phantom 3 & Android app for plate capture and a linked website for reporting. (quadcopterucd. wordpress.com)
+
+EXPERIENCE
+
+Workday, Pleasanton, CA 2016-2020
+
+Senior Associate Product Manager 2018-2020
+
+e Led 2-3 scrum teams through multiple customer implementations, with dozens coming in the pipeline; scaled
+product to support large universities with 100,000+ students.
+
+e Spearheaded a 6-team project to scope out a 4-release roadmap to allow multiple institutions in a linked system,
+enabling customers to avoid paying for separate accounts (often $1m+ each).
+
+e Pioneered an adoption analytics program to build a more data-driven design process. Facilitated a team of 5 to
+set adoption targets on 100% of features for product line.
+
+e  Collaborated with team of 6 to create a 2-year product development roadmap for supporting large enterprise
+customers (accounts over $1m). Performed customer research & product assessment to identify critical gaps.
+
+e Designed a portal to enable applicants to view financial aid awards & requirements on mobile and desktop,
+closing a user experience product gap with a target customer segment (5 currently live).
+
+Associate Product Manager 2016-2018
+
+e Helped guide development teams through product line’s 1st customer go-live by managing customer relations
+and prioritizing features toward an MVP solution, marking a milestone that established product as viable.
+
+e Designed an automated financial aid verification system, with flexibility for schools to customize workflows,
+routing rules, and security. The system has processed 80,000+ documents per year and is capable of scaling to
+large, comprehensive universities.
+
+e Coordinated with multiple teams to analyze client data & feedback and deliver a cross-platform user experience
+(web, Android, iPhone), enabling a customer segment to go live on mobile.
+
+Workday, Pleasanton, CA 2015
+
+Application Developer Intern
+
+e Implemented a web-based dashboard to highlight performance analytics metrics, aggregated across 700+
+customers (ex: object size & access rate); coded application using Hive/Datameer for data analysis & Workday
+XpressO for visualization.
+
+ADDITIONAL
+e Product Management: Launched & scaled large SaaS products for growth.
+Skills: Product roadmap/vision/strategy, continuous planning, Agile/Scrum, UX.
+e Data Analytics: Defined & analyzed adoption metrics to inform product strategy.
+Skills: Python, R, SQL, statistics, performance.
+e Web Development: Maintained a full-stack website with a payment & invoice system to account for 1000s of
+orders, totaling over $1m (c-stem.ucdavis.edu).
+Skills: HTML, CSS, JavaScript (JS), PHP, SQL.
+e Mobile Development: Shipped 2 apps on Google Play to manage club events & dues for 200+ members.
+Skills: Android Development, Java, Google Play Store. (github.com/asergian/conference)
+
